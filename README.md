@@ -1,5 +1,5 @@
 ### Hi Welcome, i'm Daeyeon Kim 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeyeon%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeyeon%20Kim&fontSize=70)
 #### Student Developer 
 
 🛠️ Stacks
@@ -29,6 +29,19 @@
 |Competition|Prize|Date|
 |------|---|---|
 
+<p align="center">
+   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
+   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
+</p>
+<p align="center">
+   Are you an early 🐤 or a night 🦉?
+   <br/>
+   When are you most productive during the day?
+   <br/>
+   Let's check out in gist!
+</p>
 
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
