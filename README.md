@@ -1,5 +1,5 @@
 ### Hi Welcome, i'm Daeyeon Kim 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeyeon%20Kim&fontSize=90)
 #### Student Developer 
 
 🛠️ Stacks
