@@ -26,7 +26,7 @@
 
 
 🏆 Awards
-|Competition|Prize|Date|
+/n
 |대전,세종,충남 ESG 프로젝트 공모전|대상||4/21|
 
 
