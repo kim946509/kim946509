@@ -26,9 +26,29 @@
 
 
 🏆 Awards
-|Competition|Prize|Date|
-|대전,세종,충남 ESG 프로젝트 공모전|대상||4/21|
 
+|대전,세종,충남 ESG 프로젝트 공모전|대상||2023/4/21|
 
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
+|KUStudy|우수상|2022/12/15|
+
+|스피치 Skill Up My Vision 발표 대회|장려상|2019/10/25|
+💻Project
+
+MissionBook - 새내기를 위한 지침서를 MissionBook으로 만들었습니다.
+
+Tool : Django
+
+https://github.com/kim946509/Mission-Book
+---------------------------------------------
+KUStory - 낮에는 힐링, 밤에는 서바이벌 형식의 게임입니다. 
+
+Tool : MapleStoryWorlds
+
+https://maplestoryworlds.nexon.com/ko/play/7818cb7026094f658ffa0632458d50ea/
+----------------------------------------------
+
+Experience
+- 세종사회봉사단 3기(2022/12/20 - 2023/12/20) - 고려대학교 세종캠퍼스 사회봉사단
+- 한국장학재단 하계 재능 캠프(2022/08/01 - 2022/08/07) - 현덕언더스쿨지역아동센터 재능 캠프  
+- Nexon Project MOD supporters (2022/07/04 - 2022/09/03) - Nexon & 멋쟁이사자처 서포터즈
+- Like Lion 10th-11th | Underdog Rev (2022/03/16 ~ ) - 고려대학교 세종캠퍼스 소속
