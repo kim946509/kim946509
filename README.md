@@ -32,6 +32,7 @@
 |KUStudy|우수상|2022/12/15|
 
 |스피치 Skill Up My Vision 발표 대회|장려상|2019/10/25|
+
 💻Project
 
 MissionBook - 새내기를 위한 지침서를 MissionBook으로 만들었습니다.
