@@ -1,4 +1,4 @@
-### Hi Welcome, 'm Daeyeon Kim 👋
+### 안녕하세요! 개발자를 꿈꾸는 김대연입니다. 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeyeon%20Kim&fontSize=70)
 #### Student Developer 
 
@@ -20,23 +20,15 @@
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kim946509)](https://velog.io/@kim946509)
 
 
-<!-- 🏅 Algorithm Siver Level. 
+🏅 Algorithm Siver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim946509)](https://solved.ac/kim946509/)  
- -->
+
 
 🏆 Awards
 |Competition|Prize|Date|
-
 |대전,세종,충남 ESG 프로젝트 공모전|대상||4/21|
 
 
-Project
----------------------------------------------
-[Student mission Book] - 새내기를 위한 미션북
-Tool : Django
-https://github.com/kim946509/Mission-Book
-----------------------------------------------
-[KUStory] - 낮에는 힐링, 밤에는 서바이벌 게임
-Tool : MaplestoryWorlds
-https://maplestoryworlds.nexon.com/ko/play/7818cb7026094f658ffa0632458d50ea/
+There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
+Please understand.
