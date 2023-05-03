@@ -20,14 +20,14 @@
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kim946509)](https://velog.io/@kim946509)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Siver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim946509)](https://solved.ac/kim946509/)  
 
 
 🏆 Awards
 |Competition|Prize|Date|
-|------|---|---|
+|대전,세종,충남 ESG 프로젝트 공모전|대상||4/21|
 
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
