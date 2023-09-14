@@ -1,7 +1,7 @@
 ### 안녕하세요! 백엔드 개발자를 꿈꾸는 김대연입니다. 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeyeon%20Kim&fontSize=70)
 #### Student Developer 
-
+  
 ### 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -20,8 +20,8 @@
 
 처음에는 막연히 나의 아이디어를 바탕으로 서비스를 개발하고 싶다는 생각으로 코딩에 입문하였습니다.
 여러가지 활동을 통해 저의 부족한 점을 깨닫고 방향을 잡아 열심히 성장하려고 이제 막 발을 땐 학생 개발자입니다.
-늦게 방향을 잡고 시작한 만큼 불안하지만 열심히 한 단계씩 성장해 갈수 있도록 노력할 것입니다. 
-
+늦게 방향을 잡고 시작한 만큼 불안하지만 불안함을 동력삼아 열심히 한 단계씩 성장해 갈수 있도록 노력할 것입니다. 
+ 
 ### 🏅 Algorithm Siver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim946509)](https://solved.ac/kim946509/)  
@@ -60,9 +60,9 @@ Role : 탈출 미니게임 미션 개발
 https://maplestoryworlds.nexon.com/ko/play/7818cb7026094f658ffa0632458d50ea/
 ----------------------------------------------
 
-##### (개발중) 어린이들을 위한 생태지도 에코야 - 어린이들이 보다 쉽고 재밌게 주변 생태계에 관심이 가질수 있도록 하는 서비스입니다.
+##### (개발중) 어린이들을 위한 생태지도 에코야 앱 서비스 - 어린이들이 보다 쉽고 재밌게 주변 생태계에 관심이 가질수 있도록 하는 서비스입니다.
 
-Tool : Spring boot
+Tool : Spring boot, React native
 
 Role : 팀장, 기획, 백엔드 개발
 
