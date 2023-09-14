@@ -1,4 +1,4 @@
-### 안녕하세요! 개발자를 꿈꾸는 김대연입니다. 👋
+![image](https://github.com/kim946509/kim946509/assets/58037317/4afaf1d2-4182-4f0c-9613-06c44c7734dd)### 안녕하세요! 백엔드 개발자를 꿈꾸는 김대연입니다. 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeyeon%20Kim&fontSize=70)
 #### Student Developer 
 
@@ -6,6 +6,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-27563B?style=flat-square&logo=Django&logoColor=white"/> 
+<img src="https://melonicedlatte.com/assets/images/2021_3Q/spring_logo.png"/>
 ### 💪🏼 Tools 
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
