@@ -17,9 +17,8 @@
 
 ### 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim946509@gmail.com)](kim946509@gmail.com)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kim946509)](https://velog.io/@kim946509)
-
+여러가지 활동을 통해 저의 부족한 점을 깨닫고 방향을 잡아 열심히 성장하려고 이제 막 발을 땐 학생 개발자입니다.
+늦게 방향을 잡고 시작한 만큼 불안하지만 열심히 한 단계씩 성장해 갈수 있도록 노력할 것입니다. 
 
 ### 🏅 Algorithm Siver Level. 
 
@@ -27,6 +26,11 @@
 
 
 ### 🏆 Awards
+
+|2023 미래모빌리티 및 세종지역혁신 아이디어 공모전|대상|2023/08/30
+
+|2023 1학기 산학협력친화형 PBL|금상|2023/07/07|                                                                                                                                                                           
+|2023 DSC 기업애로기술해결 프로젝트|장려상|2023/07/07|
 
 |대전,세종,충남 ESG 프로젝트 공모전|대상||2023/4/21|
 
@@ -49,8 +53,14 @@ Tool : MapleStoryWorlds
 https://maplestoryworlds.nexon.com/ko/play/7818cb7026094f658ffa0632458d50ea/
 ----------------------------------------------
 
+##### (개발중) 어린이들을 위한 생태지도 에코야 - 어린이들이 보다 쉽고 재밌게 주변 생태계에 관심이 가질수 있도록 하는 서비스입니다.
+
+Tool : Spring boot
+
+https://github.com/creatureMap/ecoMap
+
 ### 📗Experience
 - 세종사회봉사단 3기(2022/12/20 - 2023/12/20) - 고려대학교 세종캠퍼스 사회봉사단
 - 한국장학재단 하계 재능 캠프(2022/08/01 - 2022/08/07) - 현덕언더스쿨지역아동센터 재능 캠프  
 - Nexon Project MOD supporters (2022/07/04 - 2022/09/03) - Nexon & 멋쟁이사자처 서포터즈
-- Like Lion 10th-11th | Underdog Rev (2022/03/16 ~ ) - 고려대학교 세종캠퍼스 소속
+- Like Lion 10th-11th | Underdog Rev (2022/03/16 ~ ) - 고려대학교 세종캠퍼스 소속 IT 동아리
