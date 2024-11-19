@@ -120,7 +120,7 @@ https://maplestoryworlds.nexon.com/ko/play/7818cb7026094f658ffa0632458d50ea/
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/kim946509"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
