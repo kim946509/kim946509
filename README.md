@@ -115,7 +115,7 @@ https://maplestoryworlds.nexon.com/ko/play/7818cb7026094f658ffa0632458d50ea/
 - 세종사회봉사단 3기(2022/12/20 - 2023/12/20) - 고려대학교 세종캠퍼스 사회봉사단
 - 한국장학재단 하계 재능 캠프(2022/08/01 - 2022/08/07) - 현덕언더스쿨지역아동센터 재능 캠프  
 - Nexon Project MOD supporters (2022/07/04 - 2022/09/03) - Nexon & 멋쟁이사자처럼 서포터즈
-- Like Lion 10th-11th | Underdog Rev (2022/03/16 ~ ) - 고려대학교 세종캠퍼스 소속 IT 동아리
+- Like Lion 10th-11th | Underdog Rev (2022/03/16 ~ 2024/12/31) - 고려대학교 세종캠퍼스 소속 IT 동아리
 
 <a href="https://github.com/devxb/gitanimals">
 <img
