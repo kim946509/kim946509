@@ -21,7 +21,7 @@
 ### 🐱 About Me
 계속해서 성장해 나가는 백엔드 개발자 김대연입니다.
  
-### 🏅 Algorithm Siver Level. 
+### 🏅 Algorithm Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim946509)](https://solved.ac/kim946509/)  
 
