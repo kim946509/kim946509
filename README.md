@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/spring-43560B?style=flat-square&logo=spring&logoColor=white"/> 
 
 ### 💪🏼 Tools 
-
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDE-2C2255?style=flat-square&logo=Intellij IDE&logoColor=white"/>
 
 
@@ -22,12 +21,10 @@
 계속해서 성장해 나가는 백엔드 개발자 김대연입니다.
  
 ### 🏅 Algorithm Level. 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim946509)](https://solved.ac/kim946509/)  
 
 
 ### 🏆 Awards
-
 - 2024년 DX 세종 해커톤 **대상**
     일시 : 2024-08-06
     내용 : 자신의 스트레스 점수를 측정하고 관광데이터를 활용하여 스트레스 해소를 위한 자신에게 맞는 장소, 활동을 추천해주는 프로젝트입니다.
@@ -103,7 +100,7 @@ Role : 백엔드 개발(미션북 담당), 기획
 
 https://github.com/kim946509/Mission-Book
 ---------------------------------------------
-#### KUStory - 낮에는 힐링, 밤에는 서바이벌 형식의 게임입니다. 
+#### KUStory - 낮에는 힐링, 밤에는 서바이벌 형식의 게임입니다.
 
 Tool : MapleStoryWorlds
 
