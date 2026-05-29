@@ -166,7 +166,7 @@
 </details>
 
 ---
-
+<!--
 ## 🏆 Awards
 
 - **세종 DX 해커톤 대상** (2024) – 문화관광 서비스
@@ -189,3 +189,4 @@
 [![Email](https://img.shields.io/badge/Email-kim946509%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kim946509@gmail.com)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-AgongStory-orange?style=flat-square&logo=tistory&logoColor=white)](https://agongstory.tistory.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kim946509-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kim946509)
+-->
